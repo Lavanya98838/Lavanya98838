@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fresher currently working on a health and activity tracker application.<br>I am a Full Stack developer.<br>I am going to graduate in July 2026 completing my Masters in Computer Application from IIPS,DAVV.<br>I am open to any job profile required in IT industry and adaptable to learn new skills and tools as per the job role.<br>
+I'm a fresher currently working on a health and activity tracker application.<br>I am a Full Stack developer.<br>I am going to graduate in May 2026 completing my Masters in Computer Application from IIPS,DAVV.<br>I am open to any job profile required in IT industry and adaptable to learn new skills and tools as per the job role.<br>
 
 
 ## 🌐 Socials:
